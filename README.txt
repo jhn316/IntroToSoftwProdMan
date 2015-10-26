@@ -1,0 +1,1 @@
+Notes from the University of Alberta, Introduction to Software Management course on Coursera.
